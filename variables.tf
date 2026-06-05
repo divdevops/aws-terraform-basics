@@ -3,5 +3,5 @@ variable "aws_region" {
 }
 
 variable "bucket_name" {
-  default = "my-unique-s3-bucket-9876543743821"  # Change to a unique name!
+  default = "my-unique-s3-bucket-987634543743821"  # Change to a unique name!
 }
